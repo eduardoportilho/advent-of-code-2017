@@ -1,0 +1,10 @@
+{
+  "name": "advent17",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Eduardo <eduardo@portilho.com> (http://www.portilho.com/)",
+  "license": "MIT",
+  "scripts": {
+    "go": "node src/index"
+  }
+}
