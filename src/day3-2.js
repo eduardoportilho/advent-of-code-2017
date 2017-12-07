@@ -65,5 +65,4 @@ function getNextPosition(position) {
   }
 }
 
-
 console.log(`>>>`, solve(parseInt(process.argv.slice(2)[0])))
